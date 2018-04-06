@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "981713083740",
+    "firebase_url": "https://road-mapping-3b7f2.firebaseio.com",
+    "project_id": "road-mapping-3b7f2",
+    "storage_bucket": "road-mapping-3b7f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981713083740:android:8f4dd46871ee74c2",
+        "android_client_info": {
+          "package_name": "com.example.soulreaper.roadmapping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981713083740-a7trkcd48mos9pvijuse8ncginmosrod.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.soulreaper.roadmapping",
+            "certificate_hash": "dab98ea14923629efe3b16ad627c89b7926255c4"
+          }
+        },
+        {
+          "client_id": "981713083740-3p8dm3qd8u9u7d852edcjsoreaoascjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4NTU2Y-K09YHMgclod3rqT-WFKopQ7_8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981713083740-3p8dm3qd8u9u7d852edcjsoreaoascjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981713083740:android:5d237ddfab2e6a7f",
+        "android_client_info": {
+          "package_name": "com.example.soulreaper.roadmapping2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981713083740-3vos71vlmqf1af89u2gl0578p7tu2599.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.soulreaper.roadmapping2",
+            "certificate_hash": "dab98ea14923629efe3b16ad627c89b7926255c4"
+          }
+        },
+        {
+          "client_id": "981713083740-3p8dm3qd8u9u7d852edcjsoreaoascjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4NTU2Y-K09YHMgclod3rqT-WFKopQ7_8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981713083740-3p8dm3qd8u9u7d852edcjsoreaoascjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981713083740:android:c6e2922bea601d1f",
+        "android_client_info": {
+          "package_name": "com.example.soulreaper.roadmapping3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981713083740-2le0djtnfijhtp5e28ss9h0p2jk7n9sr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.soulreaper.roadmapping3",
+            "certificate_hash": "dab98ea14923629efe3b16ad627c89b7926255c4"
+          }
+        },
+        {
+          "client_id": "981713083740-3p8dm3qd8u9u7d852edcjsoreaoascjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4NTU2Y-K09YHMgclod3rqT-WFKopQ7_8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981713083740-3p8dm3qd8u9u7d852edcjsoreaoascjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
